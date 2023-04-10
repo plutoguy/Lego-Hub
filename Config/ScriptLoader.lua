@@ -16,7 +16,7 @@
 ]]
 
 local SupportedGames = {
-        --// Coming Soon.
+        -- Coming Soon.
 }
 
 local Success, _ = pcall(function()

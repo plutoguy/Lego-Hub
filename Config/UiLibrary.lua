@@ -1,6 +1,6 @@
 --[[
-	All credits go to bracket for the UI library. 
-	The bracket library is open source and free of use.
+	All credits go to Bracket for the UI library. 
+	The Bracket library is open source and free of use.
 	<https://github.com/AlexR32/Bracket>
 ]]
 

@@ -1,3 +1,7 @@
+--[[
+All credits go to bracket for the ui library. The bracket library is open source and free of use.
+]]
+
 local Library = {Toggle = true,FirstTab = nil,TabCount = 0,ColorTable = {}}
 
 local RunService = game:GetService("RunService")

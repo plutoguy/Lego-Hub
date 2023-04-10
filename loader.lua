@@ -9,7 +9,7 @@
     ░ ░ ▒  ░ ░ ░  ░  ░   ░   ░ ▒ ▒░     ▒ ░▒░ ░░░▒░ ░ ░ ▒░▒   ░ 
       ░ ░      ░   ░ ░   ░ ░ ░ ░ ▒      ░  ░░ ░ ░░░ ░ ░  ░    ░ 
         ░  ░   ░  ░      ░     ░ ░      ░  ░  ░   ░      ░      
-                                                              ░ 
 
-    Free Lego Hacks | Modifying roblox in a creative way since 2023
+
+    Free Lego Hacks | Modifying Roblox in a creative way since 2023
 ]]

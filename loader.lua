@@ -7,5 +7,5 @@
 ███████╗███████╗╚██████╔╝╚█████╔╝  ██║░░██║╚██████╔╝██████╦╝
 ╚══════╝╚══════╝░╚═════╝░░╚════╝░  ╚═╝░░╚═╝░╚═════╝░╚═════╝░
 
-FREE LEGO HACKS! Modifying roblox in a creative way
+FREE LEGO HACKS | Modifying roblox in a creative way since 2023
 ]]
